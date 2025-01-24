@@ -1,16 +1,21 @@
 # IPL2025 #
 
---Welcome to the SQL Project On Auction Of IPL2025-- 
+    Welcome to the SQL Project On Auction Of IPL2025-
 
 -- This project is based on the latest auction performed for IPL 2025--
+
 -- Over this project we have tried to track down some important hot picks of the season --
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📖 Project Overview
 
-This Project involves :
+    This Project involves :
+
 -- My project basically covers up the most important picks by each team.--
+
 -- As well as we have identified the top players and somehow the revenue portion too--
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
